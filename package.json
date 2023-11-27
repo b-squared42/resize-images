@@ -1,0 +1,10 @@
+{
+  "name": "resize-images",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}
